@@ -1,4 +1,4 @@
-/alunos: Larissa e Andrew
+//alunos: Larissa e Andrew
 
 #include <stdio.h>
 #include <stdlib.h>
